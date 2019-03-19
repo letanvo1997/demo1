@@ -1,4 +1,4 @@
-![Image](https://drive.google.com/drive/u/0/my-drive)
+![Image](https://www.facebook.com/photo.php?fbid=1968722996692726&set=a.1421957414702623&type=3&theater)
 # Lê Tấn Võ
 ## Trinh độ : Kỹ sư IT
 ### Kinh nghiệm làm việc: ...
