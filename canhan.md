@@ -1,8 +1,8 @@
 ![Image](https://www.facebook.com/photo.php?fbid=1968722996692726&set=a.1421957414702623&type=3&theater)
 # Lê Tấn Võ
-## Trinh độ : Kỹ sư IT
-## Chuyên môn : lập trình web
-### Kinh nghiệm làm việc: ...
+####Trinh độ : Kỹ sư IT
+####Chuyên môn : lập trình web
+#### Kinh nghiệm làm việc: ...
 #### Dự án đã thực hiện: quản lý hệ thống sách
 #### MSSV 1611020025
 ##### Khoa ktcn _ 1611020a
